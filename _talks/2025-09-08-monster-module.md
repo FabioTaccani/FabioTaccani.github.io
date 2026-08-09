@@ -4,7 +4,7 @@ collection: talks
 type: "Contributed short talk"
 permalink: /talks/2025-monster-module
 venue: "The Physics and Mathematics of Boundaries, Impurities, and Defects, Isaac Newton Institute"
-date: 2025-09-08
+date: 2025-09-09
 location: "Cambridge, United Kingdom"
 ---
 
