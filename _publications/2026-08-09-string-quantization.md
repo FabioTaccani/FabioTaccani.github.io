@@ -3,7 +3,7 @@ title: "No-Go Results for a Positive Bosonic-String Fock Representation: Lorentz
 category: in preparation
 permalink: /publication/2026-string-quantization
 date: 2026-08-09
-venue: "Manuscript"
+venue: "in preparation"
 citation: 'F. Taccani, "Lorentz Non-Implementability and Virasoro-Constraint Obstructions in a Positive Bosonic-String Fock Representation" (2026).'
 ---
 
