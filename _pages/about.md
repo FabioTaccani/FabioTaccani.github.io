@@ -1,15 +1,29 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a Master's student in Theoretical Physics at the University of Padua.
+I carried out my Master's thesis research at Heidelberg University.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research interests lie at the interface between **mathematical physics,
+string theory and conformal field theory**.
+
+In particular, I am interested in mathematical aspects of string
+quantization, conformal field theory, vertex operator algebras and
+representation theory.
+
+## Research interests
+
+- Mathematical Physics
+- String Theory
+- Conformal Field Theory
+- Vertex Operator Algebras
+- Representation Theory
 
 A data-driven personal website
 ======
