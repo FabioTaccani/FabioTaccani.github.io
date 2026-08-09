@@ -1,9 +1,9 @@
 ---
 title: "No-Go Results for a Positive Bosonic-String Fock Representation: Lorentz Non-Implementability and Triviality of the Matter Physical Space"collection: publications
-category: in preparation
+category: in_preparation
 permalink: /publication/2026-string-quantization
 date: 2026-08-09
-venue: "in preparation"
+venue: "in_preparation"
 citation: 'F. Taccani, "Lorentz Non-Implementability and Virasoro-Constraint Obstructions in a Positive Bosonic-String Fock Representation" (2026).'
 ---
 
