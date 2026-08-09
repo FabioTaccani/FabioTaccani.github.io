@@ -3,7 +3,6 @@ title: "No-Go Results for a Positive Bosonic-String Fock Representation: Lorentz
 collection: publications
 category: in_preparation
 permalink: /publication/positive-bosonic-string
-date: 2026-08-10
 venue: "Manuscript in preparation"
 citation: 'F. Taccani, "No-Go Results for a Positive Bosonic-String Fock Representation: Lorentz Non-Implementability and Triviality of the Matter Physical Space" (2026), manuscript in preparation.'
 ---
