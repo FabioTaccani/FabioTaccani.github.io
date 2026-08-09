@@ -11,3 +11,4 @@ location: "Isaac Newton Institute, Cambridge, United Kingdom"
 Contributed short talk presented during the **Gong Show** at the workshop
 *The Physics and Mathematics of Boundaries, Impurities, and Defects*,
 Isaac Newton Institute, Cambridge.
+[**Slides (PDF)**](/files/2025-cambridge-gong-show-fabio-taccani.pdf)
