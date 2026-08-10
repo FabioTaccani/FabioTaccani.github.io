@@ -25,7 +25,7 @@ the physical-state constraints.
 I am also interested in conformal field theory, vertex operator
 algebras and representation theory.
 
-My recent work concerns topological defects in two-dimensional
+My previous work concerns topological defects in two-dimensional
 conformal field theories and their relation to algebraic structures
 associated with the Monster module.
 
