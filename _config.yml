@@ -83,12 +83,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-   manuscripts:
-    title: 'Journal Articles'    
-  preprint:
-    title: 'Arxive'
+  journal_articles:
+    title: 'Journal Articles'
+  preprints:
+    title: 'arXiv Preprints'
   in_preparation:
-    title: 'in_preparation'
+    title: 'In Preparation'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
