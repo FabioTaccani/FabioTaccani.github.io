@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Fabio Taccani"
   pronouns         : # example: "she/her"  
-  bio              : "Master's student in Theoretical Physics, interested in mathematical physics, string theory and conformal field theory."
-  location         : "Heidelberg, Germany"
-  employer         : "Heidelberg University"
+  bio: "Theoretical and Mathematical Physics"
+  location: "Padua, Italy"
+  employer: "University of Padua"
   uri              : # URL
   email            : "fabio.taccani@studenti.unipd.it" 
 
