@@ -47,12 +47,3 @@ redirect_from:
     <a class="card-link" href="/research/#broader-interests">Research interests →</a>
   </article>
 </div>
-
-## Current manuscript
-
-<div class="status-panel">
-  <p class="status-label">Manuscript in preparation</p>
-  <p><strong>No-Go Results for a Positive Bosonic-String Fock Representation</strong></p>
-  <p>The manuscript develops the current thesis results and states their precise representation-theoretic scope.</p>
-  <p><a href="/publication/positive-bosonic-string">Read the project summary →</a></p>
-</div>
