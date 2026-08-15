@@ -36,7 +36,6 @@ specific representation and closed realizations studied; they are not a
 no-go theorem for every polarization or every BRST or world-sheet
 construction.
 
-This work is being prepared as a [manuscript](/publication/positive-bosonic-string).
 
 ## Conformal field theory and vertex operator algebras
 
