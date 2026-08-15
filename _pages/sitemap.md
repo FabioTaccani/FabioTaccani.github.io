@@ -17,11 +17,6 @@ The principal pages of this site are listed below. An
 - [Teaching](/teaching/)
 - [Curriculum vitae](/cv/)
 
-## Research output
-
-{% for post in site.publications reversed %}
-- [{{ post.title }}]({{ post.url }}) — {{ post.status | default: "Publication" }}
-{% endfor %}
 
 ## Talks
 
