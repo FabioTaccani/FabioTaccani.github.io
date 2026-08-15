@@ -419,6 +419,44 @@ button:focus-visible {
   }
 }
 
+.math-inline {
+  font-family: Georgia, "Times New Roman", serif;
+  white-space: nowrap;
+}
+
+.math-inline sub,
+.equation-block sub,
+.equation-block sup {
+  font-size: 0.72em;
+  line-height: 0;
+}
+
+.equation-block {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: center;
+  gap: 0.4rem 1.4rem;
+  margin: 1.5rem 0;
+  overflow-x: auto;
+  color: var(--global-text-color);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.12rem;
+  text-align: center;
+}
+
+.equation-line {
+  white-space: nowrap;
+}
+
+.intersection {
+  display: inline-block;
+  margin-right: 0.05em;
+  font-size: 1.35em;
+  line-height: 1;
+  vertical-align: -0.08em;
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
