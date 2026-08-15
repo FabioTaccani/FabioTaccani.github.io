@@ -53,11 +53,6 @@ Research project under the supervision of Prof. Roberto Volpato.
 - Derived the corresponding fusion rules.
 
 
-## Manuscript
-
-[**No-Go Results for a Positive Bosonic-String Fock Representation: Lorentz Non-Implementability and Triviality of the Matter Physical Space**](/publication/positive-bosonic-string)  
-F. Taccani, 2026. Manuscript in preparation.
-
 
 ## Talks
 
