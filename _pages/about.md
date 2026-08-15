@@ -25,21 +25,6 @@ redirect_from:
   </div>
 </section>
 
-<div class="credential-strip" aria-label="Academic highlights">
-  <div class="credential-item">
-    <strong>Heidelberg</strong>
-    <span>Master's thesis research · 2025–2026</span>
-  </div>
-  <div class="credential-item">
-    <strong>Cambridge</strong>
-    <span>Isaac Newton Institute contributed talk · 2025</span>
-  </div>
-  <div class="credential-item">
-    <strong>Merit scholarship</strong>
-    <span>Fondazione Franchetti · 2024–2026</span>
-  </div>
-</div>
-
 ## Research at a glance
 
 <div class="academic-grid">
