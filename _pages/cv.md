@@ -34,8 +34,8 @@ Supervisor: Prof. Kurt Lechner
 Master's thesis research under the supervision of Prof. Johannes Walcher and Prof. Roberto Volpato.
 
 - Constructed a positive-definite Fock representation of the bosonic string through an alternative treatment of the timelike oscillator sector.
-- Derived the corresponding Virasoro representation and studied Lorentz implementability and the physical-state constraints.
-- Proved no-go results concerning Lorentz boosts and the existence of a non-trivial matter physical Hilbert space.
+- Derived the corresponding Virasoro representation and analysed Lorentz implementability and the positive-mode physical-state constraints.
+- Established, for the representation and maximal closed Virasoro realizations studied, non-implementability of non-trivial Lorentz boosts and triviality of the completed matter physical Hilbert space.
 
 ### Topological Defects in the Monster Module
 **University of Padua · 2024–2025**
@@ -49,7 +49,7 @@ Research project under the supervision of Prof. Roberto Volpato.
 
 ## Manuscript
 
-**No-Go Results for a Positive Bosonic-String Fock Representation: Lorentz Non-Implementability and Triviality of the Matter Physical Space**  
+[**No-Go Results for a Positive Bosonic-String Fock Representation: Lorentz Non-Implementability and Triviality of the Matter Physical Space**](/publication/positive-bosonic-string)  
 F. Taccani, 2026. Manuscript in preparation.
 
 
@@ -88,3 +88,4 @@ Awarded in 2024, 2025, and 2026.
 
 **Student Representative** · 2024–2026  
 Department of Physics and Astronomy, University of Padua.
+

@@ -1,12 +1,11 @@
 name: Jekyll build
 
 on:
-  # Run after bad-pr check
-  workflow_run:
-    workflows: ["Cleanup bad PR"]
-    branches: [main]
-    types:
-      - completed
+  pull_request:
+    branches: [master]
+  push:
+    branches: [master]
+  workflow_dispatch:
       
 permissions:
   contents: read
@@ -32,3 +31,4 @@ jobs:
         run: bundle exec jekyll build --strict_front_matter
         env:
           JEKYLL_ENV: production
+

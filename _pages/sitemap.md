@@ -5,33 +5,27 @@ permalink: /sitemap/
 author_profile: true
 ---
 
-{% include base_path %}
+The principal pages of this site are listed below. An
+[XML sitemap](/sitemap.xml) is also available for automated indexing.
 
-A list of all the posts and pages found on the site. For you robots out there, there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+## Main pages
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
+- [Home](/)
+- [Research](/research/)
+- [Publications](/publications/)
+- [Talks and presentations](/talks/)
+- [Teaching](/teaching/)
+- [Curriculum vitae](/cv/)
+
+## Research output
+
+{% for post in site.publications reversed %}
+- [{{ post.title }}]({{ post.url }}) — {{ post.status | default: "Publication" }}
 {% endfor %}
 
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
+## Talks
+
+{% for post in site.talks reversed %}
+- [{{ post.title }}]({{ post.url }}) — {{ post.venue }}
 {% endfor %}
 
-{% capture written_label %}'None'{% endcapture %}
-
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
