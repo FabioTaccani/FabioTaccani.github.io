@@ -24,18 +24,15 @@ modified Fock representation.
 
 Second, we prove that the completed positive-mode Virasoro constraint space is
 trivial. At fixed momentum, normalisable states can be identified with
-Hilbert–Schmidt operators <span class="math-inline">&#92;(T_{\psi}&#92;)</span> from the repolarised timelike Fock
-space to the spatial Fock space, under which the Virasoro constraints become
-intertwining equations. Using compactness we exclude every nonzero
-Hilbert–Schmidt solution. Thus, for every real momentum and every finite
-dimension <span class="math-inline">&#92;(D \geq 2&#92;)</span>,
+Hilbert–Schmidt operators <span class="math-inline"><i>T</i><sub>ψ</sub></span>
+from the repolarised timelike Fock space to the spatial Fock space, under which
+the Virasoro constraints become intertwining equations. Using compactness we
+exclude every nonzero Hilbert–Schmidt solution. Thus, for every real momentum
+and every finite dimension <span class="math-inline"><i>D</i> ≥ 2</span>,
 
-<div class="math-display">
-\[
-\bigcap_{m \geq 1}\ker L_m^X = \{0\},
-\qquad
-\mathcal H_{\mathrm{phys}}^X(p) = \{0\}.
-\]
+<div class="equation-block" role="math" aria-label="The intersection over m greater than or equal to one of the kernel of L sub m superscript X equals the set containing zero; and script H sub phys superscript X of p equals the set containing zero.">
+  <span class="equation-line"><span class="intersection">⋂</span><sub><i>m</i> ≥ 1</sub> ker <i>L</i><sub><i>m</i></sub><sup><i>X</i></sup> = {0},</span>
+  <span class="equation-line">ℋ<sub>phys</sub><sup><i>X</i></sup>(<i>p</i>) = {0}.</span>
 </div>
 
 Therefore, the modified polarisation achieves positivity of the kinematical
