@@ -37,7 +37,7 @@ redirect_from:
   <article class="academic-card">
     <p class="card-kicker">Previous project</p>
     <h3>CFT and vertex operator algebras</h3>
-    <p>Modular data, consistency conditions and fusion rules for topological defects in the Monster module at \(k=3,5,7\).</p>
+    <p>Modular data, consistency conditions and fusion rules for topological defects in the Monster module at <span class="math-inline"><i>k</i> = 3, 5, 7</span>.</p>
     <a class="card-link" href="/research/#conformal-field-theory-and-vertex-operator-algebras">Project summary →</a>
   </article>
   <article class="academic-card">
