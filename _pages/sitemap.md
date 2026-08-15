@@ -18,6 +18,12 @@ The principal pages of this site are listed below. An
 - [Curriculum vitae](/cv/)
 
 
+## Research output
+
+{% for post in site.publications reversed %}
+- [{{ post.title }}]({{ post.url }}) — {{ post.status | default: "Publication" }}
+{% endfor %}
+
 ## Talks
 
 {% for post in site.talks reversed %}
