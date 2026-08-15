@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<section class="academic-hero" aria-labelledby="intro-heading">
+<section class="academic-hero" aria-label="Introduction">
   <p class="eyebrow">M.Sc. candidate · University of Padua</p>
-  <p id="intro-heading" class="hero-lead">
+  <p class="hero-lead">
     I work at the interface of mathematical physics, quantum field theory,
     string theory and conformal field theory.
   </p>

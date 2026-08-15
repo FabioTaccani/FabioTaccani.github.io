@@ -4,6 +4,7 @@ collection: publications
 category: in_preparation
 authors: "Fabio Taccani"
 status: "Manuscript in preparation"
+excerpt: "A study of Lorentz implementability and the completed matter physical space in a modified positive-definite bosonic-string Fock representation."
 permalink: /publication/positive-bosonic-string
 ---
 
@@ -15,4 +16,3 @@ specific representation and maximal closed positive-mode Virasoro
 realizations considered, two obstructions are established: non-trivial
 Lorentz boosts are not unitarily implementable, and the completed matter
 physical Hilbert space is trivial.
-

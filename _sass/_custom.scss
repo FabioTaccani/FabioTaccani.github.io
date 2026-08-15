@@ -6,6 +6,7 @@
   --site-accent-soft: #eaf2f4;
   --site-panel: #f7f9fa;
   --site-panel-strong: #eef3f5;
+  --site-muted: #59676d;
   --site-shadow: 0 14px 36px rgba(22, 50, 63, 0.08);
 }
 
@@ -15,6 +16,7 @@ html[data-theme="dark"] {
   --site-accent-soft: #263f48;
   --site-panel: #3d464a;
   --site-panel-strong: #344147;
+  --site-muted: #c7d0d4;
   --site-shadow: 0 14px 36px rgba(0, 0, 0, 0.22);
 }
 
@@ -224,7 +226,7 @@ button:focus-visible {
 }
 
 .credential-item span {
-  color: var(--global-text-color-light);
+  color: var(--site-muted);
   font-size: 0.8rem;
   line-height: 1.45;
 }
@@ -328,6 +330,11 @@ button:focus-visible {
   margin-bottom: 0;
 }
 
+.archive .page__meta,
+.archive .page__date {
+  color: var(--site-muted);
+}
+
 .author__avatar img {
   width: 48px;
   height: 48px;
@@ -364,7 +371,12 @@ button:focus-visible {
   bottom: auto;
   margin-top: 4rem;
   background: var(--site-panel-strong);
-  color: var(--global-text-color-light);
+  color: var(--site-muted);
+}
+
+.author__urls-wrapper button {
+  border-color: var(--global-border-color);
+  color: var(--site-muted);
 }
 
 .page__footer footer {
