@@ -6,45 +6,5 @@ author_profile: true
 ---
 
 <p class="page-intro">
-  Research outputs and works in progress. Status labels are used deliberately:
-  material listed as “in preparation” has not yet been published or posted as a preprint.
+  Publications and public preprints will be listed here as they become available.
 </p>
-
-{% if site.author.googlescholar %}
-  <p>
-    You can also find my publications on
-    <a href="{{ site.author.googlescholar }}">Google Scholar</a>.
-  </p>
-{% endif %}
-
-{% include base_path %}
-
-{% if site.publication_category %}
-
-  {% for category in site.publication_category %}
-    {% assign title_shown = false %}
-
-    {% for post in site.publications reversed %}
-
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2>
-        <hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-
-      {% include archive-single.html %}
-
-    {% endfor %}
-  {% endfor %}
-
-{% else %}
-
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-
-{% endif %}
