@@ -15,7 +15,7 @@ redirect_from:
     string theory and conformal field theory.
   </p>
   <p>
-    My current thesis research, carried out between Padua and Heidelberg,
+    My current thesis research, carried out between Heidelberg and Padua,
     investigates analytic and representation-theoretic obstructions in a
     modified positive-definite Fock quantization of the bosonic string.
   </p>
