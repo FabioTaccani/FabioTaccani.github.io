@@ -5,7 +5,13 @@ permalink: /cv/
 author_profile: true
 ---
 
-[**Download full CV (PDF)**](/files/CV_Taccani_Fabio_sito.pdf)
+<p class="page-intro">
+  Education, research experience, selected presentations, teaching and academic distinctions.
+</p>
+
+<div class="button-row">
+  <a href="/files/CV_Taccani_Fabio_sito.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i>&nbsp; Download full CV (PDF)</a>
+</div>
 
 ## Education
 
@@ -88,4 +94,3 @@ Awarded in 2024, 2025, and 2026.
 
 **Student Representative** · 2024–2026  
 Department of Physics and Astronomy, University of Padua.
-

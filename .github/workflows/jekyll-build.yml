@@ -32,3 +32,10 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      - name: Upload pull request preview
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-preview
+          path: _site
+          retention-days: 3

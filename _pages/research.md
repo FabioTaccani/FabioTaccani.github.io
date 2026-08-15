@@ -5,9 +5,19 @@ permalink: /research/
 author_profile: true
 ---
 
+<p class="page-intro">
 My work lies in mathematical and theoretical physics, with a particular
 interest in analytic and algebraic structures arising in quantum field
 theory, string theory and conformal field theory.
+</p>
+
+<div class="research-tags" aria-label="Research areas">
+  <span>Mathematical QFT</span>
+  <span>String quantization</span>
+  <span>Conformal field theory</span>
+  <span>Vertex operator algebras</span>
+  <span>Representation theory</span>
+</div>
 
 ## Mathematical structures in string quantization
 
@@ -42,3 +52,7 @@ representation theory.
 More broadly, I am interested in mathematical QFT, analytic representation
 theory, operator methods and algebraic approaches to quantum field theory.
 
+<div class="status-panel">
+  <p class="status-label">Research approach</p>
+  <p>I am particularly interested in questions where analytic control of operators and domains interacts with algebraic or representation-theoretic structure.</p>
+</div>
