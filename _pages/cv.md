@@ -28,8 +28,8 @@ Heidelberg University, Germany · 2025–2026
 **B.Sc. in Physics**  
 University of Padua, Italy · 2021–2024  
 
-Bachelor's thesis: *Classical Electrodynamics of Massive Gauge Fields*  
-Supervisor: Prof. Kurt Lechner
+Bachelor's thesis: [*Classical Electrodynamics of Massive Gauge Fields*](https://thesis.unipd.it/retrieve/be33ea4f-fd53-434f-9fd5-9b957a780b48/Taccani_Fabio.pdf)  
+Supervisor: [Prof. Kurt Lechner](https://www.unipd.it/en/contatti/kurt.lechner)
 
 
 ## Research Experience
