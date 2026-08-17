@@ -27,10 +27,18 @@ oscillator sector. The central questions are whether Lorentz transformations
 can be implemented unitarily and whether the positive-mode Virasoro
 constraints admit non-zero normalisable states.
 
+<p class="research-supervisors">
+  <strong>Master's thesis supervisors:</strong>
+  <a href="https://web.mathi.uni-heidelberg.de/physmath/walcher">Prof. Johannes Walcher</a>
+  (Heidelberg University) and
+  <a href="https://unifind.unipd.it/resource/person/13292?language=en_US">Prof. Roberto Volpato</a>
+  (University of Padua).
+</p>
+
 For the maximal closed positive-mode Virasoro realizations considered in the
 project, the analysis yields two obstructions: non-trivial Lorentz boosts are
 not unitarily implementable, and the completed matter physical Hilbert space
-is trivial. The second result is formulated through Hilbert--Schmidt
+is trivial. The second result is formulated through Hilbert–Schmidt
 Virasoro intertwiners and a compactness argument. These claims concern the
 specific representation and closed realizations studied; they are not a
 no-go theorem for every polarization or every BRST or world-sheet
