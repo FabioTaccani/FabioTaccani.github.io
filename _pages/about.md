@@ -19,6 +19,13 @@ redirect_from:
     investigates analytic and representation-theoretic obstructions in a
     modified positive-definite Fock quantization of the bosonic string.
   </p>
+  <p class="thesis-supervisors">
+    <strong>Master's thesis supervisors:</strong>
+    <a href="https://web.mathi.uni-heidelberg.de/physmath/walcher">Prof. Johannes Walcher</a>
+    (Heidelberg University) and
+    <a href="https://unifind.unipd.it/resource/person/13292?language=en_US">Prof. Roberto Volpato</a>
+    (University of Padua).
+  </p>
   <div class="button-row" aria-label="Primary links">
     <a href="/research/">Explore my research</a>
     <a class="button-secondary" href="/files/CV_Taccani_Fabio_sito.pdf">Download CV</a>
