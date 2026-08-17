@@ -48,8 +48,8 @@ Master's thesis research under the supervision of [Prof. Johannes Walcher](https
 
 Research project under the supervision of [Prof. Roberto Volpato](https://unifind.unipd.it/resource/person/13292?language=en_US).
 
-- Studied topological defects in the Monster module for \(k=3,5,7\).
-- Computed modular \(S\)-matrices and analysed consistency equations for defect and twisted-sector partition functions.
+- Studied topological defects in the Monster module for <span class="math-inline"><i>k</i> = 3, 5, 7</span>.
+- Computed modular <span class="math-inline"><i>S</i></span>-matrices and analysed consistency equations for defect and twisted-sector partition functions.
 - Derived the corresponding fusion rules.
 
 
