@@ -48,8 +48,8 @@ construction.
 ## Conformal field theory and vertex operator algebras
 
 I have also studied topological defects in the Monster module under the
-supervision of Roberto Volpato. For \(k=3,5,7\), I computed modular
-\(S\)-matrices, analysed consistency equations for defect and twisted-sector
+supervision of [Prof. Roberto Volpato](https://unifind.unipd.it/resource/person/13292?language=en_US). For <span class="math-inline"><i>k</i> = 3, 5, 7</span>, I computed modular
+<span class="math-inline"><i>S</i></span>-matrices, analysed consistency equations for defect and twisted-sector
 partition functions, and derived the associated fusion rules. This project
 motivated my continuing interest in vertex operator algebras, modularity and
 representation theory.
