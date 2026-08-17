@@ -66,7 +66,7 @@ Isaac Newton Institute, Cambridge · September 2025
 
 ## Selected Schools, Workshops and Conferences
 
-- **CIRM, Marseille**, 2026 — Research School [*Loop Models, Conformal Field Theory, and Geometry*](https://conferences.cirm-math.fr/3539.html) and conference [*Geometric and Probabilistic Aspects in Quantum Field Theory*](https://conferences.cirm-math.fr/3540.html)
+- **CIRM, Marseille**, 2026 — Research School [*Loop Models, Conformal Field Theory, and Geometry*](https://conferences.cirm-math.fr/3539.html) and Conference [*Geometric and Probabilistic Aspects in Quantum Field Theory*](https://conferences.cirm-math.fr/3540.html)
 - **[All Around Integrability II](https://rfrassek.github.io/conf/index.html)**, Bologna, 2026
 - **[CERN Winter School on Supergravity, Strings and Gauge Theory](https://indico.cern.ch/event/1590691/)**, CERN, Geneva, 2026
 - **[The Physics and Mathematics of Boundaries, Impurities, and Defects](https://www.newton.ac.uk/event/bidw01/)**, Isaac Newton Institute, Cambridge, 2025
