@@ -20,7 +20,7 @@ University of Padua, Italy · 2024–2026
 Expected completion: September 2026  
 
 Master's thesis: *A Modified Fock Space Quantisation of the Bosonic String*  
-Supervisors: Prof. Johannes Walcher (Heidelberg University) and Prof. Roberto Volpato (University of Padua)
+Supervisors: [Prof. Johannes Walcher](https://web.mathi.uni-heidelberg.de/physmath/walcher) (Heidelberg University) and [Prof. Roberto Volpato](https://unifind.unipd.it/resource/person/13292?language=en_US) (University of Padua)
 
 **Erasmus Exchange and Master's Thesis Research**  
 Heidelberg University, Germany · 2025–2026
@@ -37,7 +37,7 @@ Supervisor: Prof. Kurt Lechner
 ### Bosonic String Quantisation
 **Heidelberg University and University of Padua · 2025–2026**
 
-Master's thesis research under the supervision of Prof. Johannes Walcher and Prof. Roberto Volpato.
+Master's thesis research under the supervision of [Prof. Johannes Walcher](https://web.mathi.uni-heidelberg.de/physmath/walcher) and [Prof. Roberto Volpato](https://unifind.unipd.it/resource/person/13292?language=en_US).
 
 - Constructed a positive-definite Fock representation of the bosonic string through an alternative treatment of the timelike oscillator sector.
 - Derived the corresponding Virasoro representation and analysed Lorentz implementability and the positive-mode physical-state constraints.
@@ -46,7 +46,7 @@ Master's thesis research under the supervision of Prof. Johannes Walcher and Pro
 ### Topological Defects in the Monster Module
 **University of Padua · 2024–2025**
 
-Research project under the supervision of Prof. Roberto Volpato.
+Research project under the supervision of [Prof. Roberto Volpato](https://unifind.unipd.it/resource/person/13292?language=en_US).
 
 - Studied topological defects in the Monster module for \(k=3,5,7\).
 - Computed modular \(S\)-matrices and analysed consistency equations for defect and twisted-sector partition functions.
