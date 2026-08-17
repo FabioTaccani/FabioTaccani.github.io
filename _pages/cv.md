@@ -58,7 +58,7 @@ Research project under the supervision of [Prof. Roberto Volpato](https://unifin
 
 **Topological Defects in the Monster Module**  
 Contributed short talk, Gong Show  
-*The Physics and Mathematics of Boundaries, Impurities, and Defects*  
+[*The Physics and Mathematics of Boundaries, Impurities, and Defects*](https://www.newton.ac.uk/event/bidw01/)  
 Isaac Newton Institute, Cambridge · September 2025
 
 [Slides](/files/2025-cambridge-gong-show-fabio-taccani.pdf)
@@ -66,11 +66,11 @@ Isaac Newton Institute, Cambridge · September 2025
 
 ## Selected Schools, Workshops and Conferences
 
-- **CIRM, Marseille**, 2026 — Research School *Loop Models, Conformal Field Theory, and Geometry* and conference *Geometric and Probabilistic Aspects in Quantum Field Theory*
-- **All Around Integrability II**, Bologna, 2026
-- **CERN Winter School on Supergravity, Strings and Gauge Theory**, CERN, Geneva, 2026
-- **The Physics and Mathematics of Boundaries, Impurities, and Defects**, Isaac Newton Institute, Cambridge, 2025
-- **Petnica Summer School on String Theory**, Petnica Science Center, Serbia, 2025
+- **CIRM, Marseille**, 2026 — Research School [*Loop Models, Conformal Field Theory, and Geometry*](https://conferences.cirm-math.fr/3539.html) and conference [*Geometric and Probabilistic Aspects in Quantum Field Theory*](https://conferences.cirm-math.fr/3540.html)
+- **[All Around Integrability II](https://rfrassek.github.io/conf/index.html)**, Bologna, 2026
+- **[CERN Winter School on Supergravity, Strings and Gauge Theory](https://indico.cern.ch/event/1590691/)**, CERN, Geneva, 2026
+- **[The Physics and Mathematics of Boundaries, Impurities, and Defects](https://www.newton.ac.uk/event/bidw01/)**, Isaac Newton Institute, Cambridge, 2025
+- **[Petnica Summer School on String Theory](https://psi.petnica.rs/2025_th/description)**, Petnica Science Center, Serbia, 2025
 
 
 ## Teaching Experience
