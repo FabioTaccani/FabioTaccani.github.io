@@ -19,11 +19,18 @@ theory, string theory and conformal field theory.
   <span>Representation theory</span>
 </div>
 
+## Upcoming research
+
+My next research project will be carried out with
+[Prof. Thomas Creutzig](https://www.math.fau.de/algebra-und-geometrie/thomascreutzig/)
+at FAU Erlangen-Nürnberg. The project will focus on conformal field theory,
+vertex operator algebras and representation-theoretic methods.
+
 ## Mathematical structures in string quantization
 
-My Master's thesis studies a modified positive-definite Fock representation
+My Master's thesis studied a modified positive-definite Fock representation
 of the bosonic string, obtained by changing the treatment of the timelike
-oscillator sector. The central questions are whether Lorentz transformations
+oscillator sector. The central questions were whether Lorentz transformations
 can be implemented unitarily and whether the positive-mode Virasoro
 constraints admit non-zero normalisable states.
 
@@ -43,7 +50,6 @@ Virasoro intertwiners and a compactness argument. These claims concern the
 specific representation and closed realizations studied; they are not a
 no-go theorem for every polarization or every BRST or world-sheet
 construction.
-
 
 ## Conformal field theory and vertex operator algebras
 
