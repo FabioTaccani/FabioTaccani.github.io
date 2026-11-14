@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Fabio Taccani"
-excerpt: "M.Sc. in Physics working on mathematical QFT, string quantization, conformal field theory and vertex operator algebras."
+excerpt: "Research stay at FAU Erlangen–Nürnberg with Thomas Creutzig: vertex algebras, representation theory and conformal field theory."
 author_profile: true
 redirect_from:
   - /about/
@@ -9,33 +9,24 @@ redirect_from:
 ---
 
 <section class="academic-hero" aria-label="Introduction">
-  <p class="eyebrow">M.Sc. in Physics · University of Padua</p>
+  <p class="eyebrow">Research stay · FAU Erlangen–Nürnberg</p>
   <p class="hero-lead">
-    I work at the interface of mathematical physics, quantum field theory,
-    string theory and conformal field theory.
-  </p>
-  <p>
-    I recently completed my M.Sc. in Physics at the University of Padua, with
-    a Master's thesis carried out between Heidelberg and Padua on analytic and
-    representation-theoretic obstructions in a modified positive-definite Fock
-    quantization of the bosonic string.
-  </p>
-  <p>
-    My next research project will be carried out with
-    <a href="https://www.math.fau.de/algebra-und-geometrie/thomascreutzig/">Prof. Thomas Creutzig</a>
-    at FAU Erlangen-Nürnberg, with a focus on conformal field theory, vertex
-    operator algebras and representation-theoretic methods.
+    I am currently undertaking a research stay at FAU Erlangen–Nürnberg,
+    working with <a href="https://www.math.fau.de/algebra-und-geometrie/thomascreutzig/">Thomas Creutzig</a>
+    on vertex algebras and their representations in conformal field theory.
   </p>
   <p class="thesis-supervisors">
-    <strong>My Master's thesis was supervised by:</strong>
-    <a href="https://web.mathi.uni-heidelberg.de/physmath/walcher">Prof. Johannes Walcher</a>
+    I completed my M.Sc. in Physics at the University of Padua in 2026.
+    My thesis, carried out between Heidelberg and Padua, studied a modified
+    positive-definite Fock quantization of the bosonic string, supervised by
+    <a href="https://web.mathi.uni-heidelberg.de/physmath/walcher">Johannes Walcher</a>
     (Heidelberg University) and
-    <a href="https://unifind.unipd.it/resource/person/13292?language=en_US">Prof. Roberto Volpato</a>
+    <a href="https://unifind.unipd.it/resource/person/13292?language=en_US">Roberto Volpato</a>
     (University of Padua).
   </p>
   <div class="button-row" aria-label="Primary links">
     <a href="/research/">Explore my research</a>
-    <a class="button-secondary" href="/files/CV_Taccani_Fabio_sito.pdf">Download CV</a>
+    <a class="button-secondary" href="/cv/">View CV</a>
   </div>
 </section>
 
@@ -43,10 +34,10 @@ redirect_from:
 
 <div class="academic-grid">
   <article class="academic-card">
-    <p class="card-kicker">Upcoming research</p>
-    <h3>CFT and vertex operator algebras</h3>
-    <p>Research with Prof. Thomas Creutzig at FAU Erlangen-Nürnberg, focusing on algebraic and representation-theoretic structures in conformal field theory.</p>
-    <a class="card-link" href="/research/#upcoming-research">Research overview →</a>
+    <p class="card-kicker">Current research</p>
+    <h3>Vertex algebras and representations</h3>
+    <p>I am studying spectral flow and representations of vertex superalgebras, including W-superalgebras and N=2 superconformal structures.</p>
+    <a class="card-link" href="/research/#current-research">Current project →</a>
   </article>
   <article class="academic-card">
     <p class="card-kicker">Master's thesis</p>
@@ -55,15 +46,15 @@ redirect_from:
     <a class="card-link" href="/research/#mathematical-structures-in-string-quantization">Thesis overview →</a>
   </article>
   <article class="academic-card">
-    <p class="card-kicker">Broader direction</p>
-    <h3>Operator and algebraic methods</h3>
-    <p>Mathematical QFT, analytic representation theory and algebraic structures in quantum field theory.</p>
-    <a class="card-link" href="/research/#broader-interests">Research interests →</a>
+    <p class="card-kicker">Earlier research</p>
+    <h3>Defects in the Monster module</h3>
+    <p>Modular consistency of defect and twisted-sector partition functions, and associated fusion rules.</p>
+    <a class="card-link" href="/research/#topological-defects-in-the-monster-module">Project overview →</a>
   </article>
 </div>
 
 ## Contact
 
 **Email:** [fabio.taccani@fau.de](mailto:fabio.taccani@fau.de)  
-**Office:** 01.316 · Department of Mathematics · FAU Erlangen-Nürnberg  
+**Office:** 01.316 · Department of Mathematics · FAU Erlangen–Nürnberg<br>
 Mathematik 3 — Representation Theory

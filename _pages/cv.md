@@ -13,11 +13,12 @@ author_profile: true
   <a href="/files/CV_Taccani_Fabio_sito.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i>&nbsp; Download full CV (PDF)</a>
 </div>
 
+The downloadable PDF predates my FAU research stay and still requires revision; the current research information is given below.
+
 ## Education
 
 **M.Sc. in Physics, Fundamental Interactions**  
 University of Padua, Italy · 2024–2026  
-Expected completion: September 2026  
 
 Master's thesis: *A Modified Fock Space Quantisation of the Bosonic String*  
 Supervisors: [Prof. Johannes Walcher](https://web.mathi.uni-heidelberg.de/physmath/walcher) (Heidelberg University) and [Prof. Roberto Volpato](https://unifind.unipd.it/resource/person/13292?language=en_US) (University of Padua)
@@ -33,6 +34,15 @@ Supervisor: [Prof. Kurt Lechner](https://www.unipd.it/en/contatti/kurt.lechner)
 
 
 ## Research Experience
+
+### Vertex Algebras and Representation Theory
+**Research stay · FAU Erlangen–Nürnberg · 2026–present**
+
+Working with [Thomas Creutzig](https://www.math.fau.de/algebra-und-geometrie/thomascreutzig/)
+on representations of vertex algebras and W-(super)algebras in conformal
+field theory. I am studying spectral flow, connections with quantum
+Hamiltonian/BRST reduction, and explicit module constructions for N=2
+superconformal algebras.
 
 ### Bosonic String Quantisation
 **Heidelberg University and University of Padua · 2025–2026**

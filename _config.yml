@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Fabio Taccani"
 title_separator          : "-"
 name                     : &name "Fabio Taccani"
-description              : &description "Fabio Taccani — theoretical and mathematical physics, string quantization, conformal field theory and vertex operator algebras."
+description              : &description "Fabio Taccani — vertex algebras, representation theory and conformal field theory. Research stay at FAU Erlangen–Nürnberg with Thomas Creutzig."
 url                      : https://fabiotaccani.github.io        # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fabiotaccani/fabiotaccani.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "imagesprofile.png"
   name             : "Fabio Taccani"
   pronouns         : # example: "she/her"  
-  bio: "Mathematical Physics · String Theory · CFT"
-  location: "Erlangen–Nürnberg, Germany"
-  employer: "FAU Erlangen-Nürnberg · Department of Mathematics"
+  bio: "Research stay with Thomas Creutzig · Vertex algebras, representation theory and CFT"
+  location: "Nürnberg, Germany"
+  employer: "FAU Erlangen–Nürnberg · Department of Mathematics"
   uri              : # URL
   email            : "fabio.taccani@fau.de" 
 

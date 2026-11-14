@@ -6,25 +6,24 @@ author_profile: true
 ---
 
 <p class="page-intro">
-My work lies in mathematical and theoretical physics, with a particular
-interest in analytic and algebraic structures arising in quantum field
-theory, string theory and conformal field theory.
+I study representations of vertex algebras in conformal field theory.
 </p>
 
 <div class="research-tags" aria-label="Research areas">
-  <span>Mathematical QFT</span>
-  <span>String quantization</span>
-  <span>Conformal field theory</span>
-  <span>Vertex operator algebras</span>
+  <span>Vertex algebras</span>
   <span>Representation theory</span>
+  <span>Conformal field theory</span>
 </div>
 
-## Upcoming research
+## Current research
 
-My next research project will be carried out with
-[Prof. Thomas Creutzig](https://www.math.fau.de/algebra-und-geometrie/thomascreutzig/)
-at FAU Erlangen-Nürnberg. The project will focus on conformal field theory,
-vertex operator algebras and representation-theoretic methods.
+During my research stay at FAU Erlangen–Nürnberg with
+[Thomas Creutzig](https://www.math.fau.de/algebra-und-geometrie/thomascreutzig/),
+I am studying representations of vertex algebras and W-(super)algebras,
+with particular attention to spectral flow. I am investigating how spectral
+flow interacts with quantum Hamiltonian reduction in its BRST formulation,
+and how these methods can be used in explicit module constructions for
+N=2 superconformal algebras. This is ongoing work.
 
 ## Mathematical structures in string quantization
 
@@ -51,7 +50,7 @@ specific representation and closed realizations studied; they are not a
 no-go theorem for every polarization or every BRST or world-sheet
 construction.
 
-## Conformal field theory and vertex operator algebras
+## Topological defects in the Monster module
 
 I have also studied topological defects in the Monster module under the
 supervision of [Prof. Roberto Volpato](https://unifind.unipd.it/resource/person/13292?language=en_US). For <span class="math-inline"><i>k</i> = 3, 5, 7</span>, I computed modular
@@ -59,13 +58,3 @@ supervision of [Prof. Roberto Volpato](https://unifind.unipd.it/resource/person/
 partition functions, and derived the associated fusion rules. This project
 motivated my continuing interest in vertex operator algebras, modularity and
 representation theory.
-
-## Broader interests
-
-More broadly, I am interested in mathematical QFT, analytic representation
-theory, operator methods and algebraic approaches to quantum field theory.
-
-<div class="status-panel">
-  <p class="status-label">Research approach</p>
-  <p>I am particularly interested in questions where analytic control of operators and domains interacts with algebraic or representation-theoretic structure.</p>
-</div>
