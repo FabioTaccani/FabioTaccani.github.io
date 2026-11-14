@@ -61,3 +61,9 @@ redirect_from:
     <a class="card-link" href="/research/#broader-interests">Research interests →</a>
   </article>
 </div>
+
+## Contact
+
+**Email:** [fabio.taccani@fau.de](mailto:fabio.taccani@fau.de)  
+**Office:** 01.316 · Department of Mathematics · FAU Erlangen-Nürnberg  
+Mathematik 3 — Representation Theory
