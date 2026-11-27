@@ -50,6 +50,8 @@ specific representation and closed realizations studied; they are not a
 no-go theorem for every polarization or every BRST or world-sheet
 construction.
 
+[Read the master's thesis (University of Padua)](https://thesis.unipd.it/handle/20.500.12608/114162)
+
 ## Topological defects in the Monster module
 
 I have also studied topological defects in the Monster module under the
