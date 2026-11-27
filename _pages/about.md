@@ -47,7 +47,7 @@ work at Heidelberg and Padua under the supervision of
 [Johannes Walcher](https://web.mathi.uni-heidelberg.de/physmath/walcher) and
 [Roberto Volpato](https://unifind.unipd.it/resource/person/13292?language=en_US).
 
-[Thesis research](/research/#mathematical-structures-in-string-quantization)
+[Read the master's thesis (University of Padua)](https://thesis.unipd.it/handle/20.500.12608/114162) · [Thesis research](/research/#mathematical-structures-in-string-quantization)
 
 ### Topological defects in the Monster module
 
