@@ -18,6 +18,9 @@ redirect_from:
     At FAU’s Department of Mathematics, I work with
     <a href="https://www.math.fau.de/algebra-und-geometrie/thomascreutzig/">Thomas Creutzig</a>.
   </p>
+  <p>
+    I expect to begin my PhD in mathematics at FAU in March 2027, with Thomas Creutzig as my supervisor.
+  </p>
   <div class="button-row" aria-label="Primary links">
     <a href="/research/">Research</a>
     <a class="button-secondary" href="/cv/">CV</a>
